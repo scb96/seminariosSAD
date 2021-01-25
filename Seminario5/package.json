@@ -1,0 +1,13 @@
+{
+  "name": "seminario_5",
+  "version": "1.0.0",
+  "description": "Carrito con promesas",
+  "scripts": {
+    "test": "node carrito.js"
+  },
+  "author": "Natalia Alcarria, Samuel Calvo",
+  "license": "ISC",
+  "dependencies": {
+  	"q": "^1.5.1"
+  }
+}

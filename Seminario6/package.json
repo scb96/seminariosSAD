@@ -1,0 +1,10 @@
+{
+  "name": "seminario_6",
+  "version": "1.0.0",
+  "description": "Carrito con ZMQ",
+  "author": "Natalia Alcarria, Samuel Calvo",
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "^5.2.0"
+  }
+}

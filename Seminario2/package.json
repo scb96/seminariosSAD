@@ -1,0 +1,10 @@
+{
+  "name": "seminario_2",
+  "version": "1.0.0",
+  "description": "Carrito de la compra en NodeJS",
+  "scripts": {
+    "test": "node carrito.js"
+  },
+  "author": "Natalia Alcarria, Samuel Calvo",
+  "license": "ISC"
+}

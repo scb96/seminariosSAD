@@ -1,0 +1,10 @@
+{
+  "name": "seminario_3",
+  "version": "1.0.0",
+  "description": "Servicio REST carrito de la compra",
+  "author": "Natalia Alcarria, Samuel Calvo",
+  "license": "ISC",
+  "dependencies": {
+     "express":	"^4.10.8"  	
+  }
+}

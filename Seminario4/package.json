@@ -1,0 +1,11 @@
+{
+  "name": "seminario_4",
+  "version": "1.0.0",
+  "description": "Chat con Express y Websockets",
+  "author": "Natalia Alcarria, Samuel Calvo",
+  "license": "ISC",
+  "dependencies": {
+     "express": "~4.10.2",
+     "socket.io": "~1.3.7"
+  }
+}
